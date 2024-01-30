@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WriteGameData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Scripts/Database/WriteGameData.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
